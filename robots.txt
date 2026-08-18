@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-a7ns3r.cuansalam.cfd/sitemap.xml
